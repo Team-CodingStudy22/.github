@@ -1,9 +1,11 @@
 # Team-CodingStudy22
 동덕여대 컴퓨터학과 재학생 4명의 2022 2학기 스터디 레포
 ## 스터디 개요
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=10&color=6753F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=Hello%2C+Study!;%EB%8F%99%EB%8D%95%EC%97%AC%EB%8C%80+%EC%BB%B4%EA%B3%BC+4%EB%AA%85%EC%9D%98+%EC%A0%84%EA%B3%B5%EA%B3%BC%EB%AA%A9+%EC%8B%A4%EB%A0%A5+%ED%96%A5%EC%83%81%EC%9D%84+%EC%9C%84%ED%95%9C+%EC%8A%A4%ED%84%B0%EB%94%94%F0%9F%91%8B)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=10&color=6753F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=70&lines=Hello%2C+World!;%EB%8F%99%EB%8D%95%EC%97%AC%EB%8C%80+%EC%BB%B4%EA%B3%BC+4%EB%AA%85%EC%9D%98+%EC%A0%84%EA%B3%B5%EA%B3%BC%EB%AA%A9+%EC%8B%A4%EB%A0%A5+%ED%96%A5%EC%83%81%EC%9D%84+%EC%9C%84%ED%95%9C+%EC%8A%A4%ED%84%B0%EB%94%94%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-- 진행 기간 : 2022.08.28 ~ 2022.12.19
+진행 기간 : 2022.08.28 ~ 2022.12.19
+</div>
 
 ## Managers
 | <a href="https://github.com/yubin21"><img alt="yubin21" src="https://user-images.githubusercontent.com/80163835/213104751-7d7da124-8c25-4fde-ab01-8b9c9f8b0444.jpg" width="100"></a> |
